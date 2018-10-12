@@ -1,0 +1,7 @@
+{
+  "name": "apptabs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
